@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>MSC Cruises - Book Your Next Adventure</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <header>
+    <div class="header-container">
+      <h1>MSC Cruises</h1>
+      <nav>
+        <ul>
+          <li><a href="#about-us">About Us</a></li>
+          <li><a href="#our-ships">Our Ships</a></li>
+          <li><a href="#destinations">Destinations</a></li>
+          <li><a href="#book-now">Book Now</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="about-us">
+      <h2>Discover the World with MSC Cruises</h2>
+      <p>At MSC Cruises, we believe that everyone deserves a chance to explore the world and create unforgettable memories. That's why we offer a wide range of itineraries that take you to the most beautiful and exotic destinations in the world, all while enjoying the comfort and luxury of our ships.</p>
+    </section>
+
+    <section id="our-ships">
+      <h2>Our Fleet of Modern and Elegant Ships</h2>
+      <p>Our fleet of modern and elegant ships are designed to provide you with the ultimate cruise experience. With a wide range of on-board activities, dining options, and entertainment, there's never a dull moment. Whether you're looking for adventure, relaxation, or a bit of both, our ships have something for everyone.</p>
+    </section>
+
+    <section id="destinations">
+      <h2>Explore the World's Most Beautiful Destinations</h2>
+      <p>From the pristine beaches of the Caribbean to the stunning fjords of Norway, our itineraries take you to the most beautiful and exotic destinations in the world. Whether you're looking for adventure, cultural exploration, or simply want to relax and soak up the sun, we have a destination for you.</p>
+    </section>
+
+    <section id="book-now">
+      <h2>Book Your Next Adventure Today</h2>
+      <p>Ready to set sail on your next adventure? Booking a cruise with MSC Cruises is easy and convenient. Simply visit our website, choose your desired itinerary, and select your preferred ship and cabin type. Our team is always available to assist you with any questions or concerns, so don't hesitate to reach out.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Copyright © 2023 MSC Cruises. All rights reserved.</p>
+  </footer>
+
+</body>
+
+</html>
